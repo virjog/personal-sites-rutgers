@@ -529,6 +529,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Vinayak Mehta http://vortex-ape.github.io
 - Vincent Yang https://vincentyang.me
 - Vipin Sharma  http://vipinsharma.me
+- Vishal Rohra  http://vishalrohra.com
 - Vishnu Ks http://vishnuks.com
 - Vishnu Narang http://vishnun.github.io
 - Vishnu Ravi http://vishnu.io/
