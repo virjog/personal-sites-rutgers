@@ -828,6 +828,7 @@ Hackathon Hackers' GitHub profiles
 - Vinayak Mehta https://github.com/vortex-ape
 - Vincent Yang https://github.com/YangVincent
 - Viraj Bhalara https://github.com/virajbhalala
+- Vishal Rohra https://github.com/vishalrohra
 - Vishnu Ks https://github.com/hackerkid
 - Vishnu Ravi https://github.com/vishnuravi
 - Visrut Sudhakar https://github.com/vsudhakar
