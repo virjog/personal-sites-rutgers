@@ -7,3 +7,4 @@ If you'd like to see GitHub profiles, [click here](github.md).
 
 - Jacob Heifetz-Licht http://jacobhl.com
 - Vishal Rohra http://vishalrohra.com
+- Viral Jogani http://viraljogani.com
